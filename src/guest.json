@@ -1,8 +1,8 @@
 [
   {
     "full_name": "Peter Gosik",
-    "phone": "+13146303499",
-    "email": "peter@dorsia.com",
+    "phone": "+12344454444",
+    "email": "hello@dorsia.com",
     "additional_guests": 0,
     "status": "rsvp_yes",
     "code": "01JKXKWX4ZKJ8603V9D0CB56ED",
@@ -69,8 +69,8 @@
   },
   {
     "full_name": "Peter Lloyd",
-    "phone": "+19994445555",
-    "email": "ployd@test.com",
+    "phone": "+12344454444",
+    "email": "hello@test.com",
     "additional_guests": 1,
     "status": "rsvp_yes",
     "code": "01JKXKWWHCYZZ8RRX4H5EWEVTJ",
@@ -130,8 +130,8 @@
   },
   {
     "full_name": "Peter Gosik",
-    "phone": "+13146303499",
-    "email": "Peter@dorsia.com",
+    "phone": "+12344454444",
+    "email": "hello@dorsia.com",
     "additional_guests": 0,
     "status": "rsvp_yes",
     "code": "01JKX7NQAA701F9BAWFJEQEN5E",
@@ -161,8 +161,8 @@
       "data": [
         {
           "full_name": "Peter Gosik",
-          "phone": "+13146303499",
-          "email": "peter@dorsia.com",
+          "phone": "+12344454444",
+          "email": "hello@dorsia.com",
           "additional_guests": 1,
           "status": "rsvp_yes",
           "user": {
@@ -192,8 +192,8 @@
         },
         {
           "full_name": "Peter Lloyd",
-          "phone": "+19994445555",
-          "email": "ployd@test.com",
+          "phone": "+12344454444",
+          "email": "hello@test.com",
           "additional_guests": 1,
           "status": "rsvp_yes",
           "user": {
@@ -204,8 +204,8 @@
         },
         {
           "full_name": "Jessica Demakos",
-          "phone": "+17169499978",
-          "email": "Jessica@dorsia.com",
+          "phone": "+12344454444",
+          "email": "hello@dorsia.com",
           "additional_guests": 0,
           "status": "rsvp_yes",
           "user": {
@@ -216,8 +216,8 @@
         },
         {
           "full_name": "Giselle Mueller",
-          "phone": "+17862100210",
-          "email": "Giselle@dorsia.com",
+          "phone": "+12344454444",
+          "email": "hello@dorsia.com",
           "additional_guests": 0,
           "status": "rsvp_yes",
           "user": {
@@ -228,8 +228,8 @@
         },
         {
           "full_name": "Daniel Castro",
-          "phone": "+17864912868",
-          "email": "daniel@partners.dev",
+          "phone": "+12344454444",
+          "email": "test@partners.dev",
           "additional_guests": 0,
           "status": "rsvp_yes",
           "user": {
@@ -256,8 +256,8 @@
         },
         {
           "full_name": "Marcello Prattico",
-          "phone": "+13154919799",
-          "email": "marcello@dorsia.com",
+          "phone": "+12344454444",
+          "email": "hello@dorsia.com",
           "additional_guests": 0,
           "status": "rsvp_yes",
           "user": {
@@ -272,8 +272,8 @@
         },
         {
           "full_name": "Ed Garcia",
-          "phone": "+19546874714",
-          "email": "ed@dorsia.com",
+          "phone": "+12344454444",
+          "email": "hello@dorsia.com",
           "additional_guests": 0,
           "status": "rsvp_yes",
           "user": {
@@ -288,8 +288,8 @@
         },
         {
           "full_name": "Joshua Stern",
-          "phone": "+15575550102",
-          "email": "joshuacc@dorsia.com",
+          "phone": "+12344454444",
+          "email": "hello@dorsia.com",
           "additional_guests": 0,
           "status": "rsvp_yes",
           "user": {
@@ -304,7 +304,7 @@
         },
         {
           "full_name": "Eric Stern",
-          "phone": "+19975550197",
+          "phone": "+12344454444",
           "email": "testnnjdbjd@comd.con",
           "additional_guests": 0,
           "status": "rsvp_yes",
@@ -320,8 +320,8 @@
         },
         {
           "full_name": "Zurab Shubitidze",
-          "phone": "+13474442986",
-          "email": "zurab@dorsia.com",
+          "phone": "+12344454444",
+          "email": "hello@dorsia.com",
           "additional_guests": 25,
           "status": "rsvp_yes",
           "user": {
@@ -344,7 +344,7 @@
   {
     "full_name": "Peter Lloyd",
     "phone": "+19994445555",
-    "email": "ployd@test.com",
+    "email": "hello@test.com",
     "additional_guests": 1,
     "status": "rsvp_yes",
     "code": "01JKRJPD7NKVNHXZCRX1G76RCE",
@@ -404,8 +404,8 @@
   },
   {
     "full_name": "Peter Gosik",
-    "phone": "+13146303499",
-    "email": "peter@dorsia.com",
+    "phone": "+12344454444",
+    "email": "hello@dorsia.com",
     "additional_guests": 1,
     "status": "rsvp_yes",
     "code": "01JKRJJ7NME5FT8RDZYA11TFVM",
@@ -472,8 +472,8 @@
   },
   {
     "full_name": "Peter Gosik",
-    "phone": "+13146303499",
-    "email": "peter@dorsia.com",
+    "phone": "+12344454444",
+    "email": "hello@dorsia.com",
     "additional_guests": 5,
     "status": "rsvp_yes",
     "code": "01JKREKMWSQ8Z2CQXQ7SB8GBXC",
